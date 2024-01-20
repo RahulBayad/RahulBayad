@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahulBayad
 - 👀 I’m interested in Software Developmemt
-- 🌱 I’m currently learning Data structures & algorithms
+- 🌱 I’m currently learning MERN stack development
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via email - rahulbayad05@gmail.com
